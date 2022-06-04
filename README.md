@@ -1,4 +1,4 @@
-**1. 리눅스 명령어 : `top`, `ps`, `jobs`, `kill` 명령어 조사하기**
+**1. 리눅스 명령어 : <span style='background-color:#fff5b1'>top, ps, jobs, kill</span> 명령어 조사하기**
 
 
 >### top 명령어 
