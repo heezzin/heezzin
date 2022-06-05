@@ -269,5 +269,5 @@ jobs -l
 + `:register` 명령어는 인자를 받기도 하는데, `:register a` 와 같이 명령어의 인자로 레지스터명을 전달하면 해당 레지스터에 저장된 값을 표현해줌 
 
 ---
-
+[참고 자료](https://clem.tistory.com/m/29, "매크로 조사")
 <img src="https://user-images.githubusercontent.com/104162206/172030674-45b68481-4429-43d3-b25d-3c19ff28dd65.png"/>
