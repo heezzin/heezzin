@@ -267,3 +267,7 @@ jobs -l
 + `:register` 단순히 이 명령어를 입력하면 모든 레지스터의 저장된 값들을 리스팅
 
 + `:register` 명령어는 인자를 받기도 하는데, `:register a` 와 같이 명령어의 인자로 레지스터명을 전달하면 해당 레지스터에 저장된 값을 표현해줌 
+
+---
+
+<img src="https://user-images.githubusercontent.com/104162206/172030674-45b68481-4429-43d3-b25d-3c19ff28dd65.png"/>
